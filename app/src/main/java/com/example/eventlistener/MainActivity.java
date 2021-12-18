@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
 
         b.setOnClickListener(v -> {
             TextView txtView = findViewById(R.id.textView);
-            txtView.setTextSize(20);
+            txtView.setTextSize(18);
         });
 
         b2.setOnClickListener(v -> {
