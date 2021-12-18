@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Event Listener</string>
+    <string name="event_handling">Event Handling</string>
+    <string name="small_font">Small font</string>
+    <string name="large_font">Large Font</string>
+</resources>
